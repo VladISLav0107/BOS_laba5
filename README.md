@@ -1,1 +1,1 @@
-some info
+Vlad's readme
